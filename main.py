@@ -4,6 +4,8 @@ import calendar
 import pandas as pd
 import time
 
+#new comment 
+
 file_record = "AttendanceRecord.xlsx"
 
 def updateExcel(name_val,date_val,duration_val,time_val,am_pm_val,present_val,comments):
